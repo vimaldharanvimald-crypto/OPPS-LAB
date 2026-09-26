@@ -1,3 +1,4 @@
+PROGRAM:
 import java.io.*;
 import java.lang.*;
 import java.util.*;
@@ -179,3 +180,31 @@ default: System.out.println("Invalid designation");
 }
 }
 }
+
+OUTPUT:
+D:\ Java Programs>java EmployeePayslip Enter Name of Employee :
+Raj
+Enter ID of Employee :
+327
+Enter Address of Employee :
+Villupuram
+Enter Mail ID of Employee :
+raj@gmail.com
+Enter Mobile Number of Employee :
+9994191599
+Enter the Basicpay :
+15000
+Enter the Designation :
+1.	Programmer
+2.	AssistantProfessor
+3.	AssociateProfessor
+4.	Professor
+5.	Exit
+
+2
+Name of The Employee :Raghu***** payslip **** Employee Name: Raghu
+Employee_ID: 327 Address: Villupuram
+Mobile Number: 9994191599
+Grosssalary =32865.0
+Netsalary =31050.0
+
