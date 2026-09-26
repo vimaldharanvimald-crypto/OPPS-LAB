@@ -1,3 +1,4 @@
+PROGRAM:
 public class WrapperClassDemo  
 { 
 public static void main(String[] args) 
@@ -33,3 +34,15 @@ System.out.println("Parsed and autoboxed Character: " + parsedChar);
 System.out.println("Parsed and autoboxed Boolean: " + parsedBoolean); 
 } 
 }
+
+OUTPUT:
+Autoboxed Integer: 100
+Autoboxed Float: 25.75
+Autoboxed Character: A
+Autoboxed Boolean: true
+Unboxed int: 100
+Unboxed float: 25.75
+Unboxed char: A
+Unboxed boolean: true
+Parsed and autoboxed Integer: 300
+
