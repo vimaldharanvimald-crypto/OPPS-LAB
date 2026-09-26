@@ -45,4 +45,10 @@ Unboxed float: 25.75
 Unboxed char: A
 Unboxed boolean: true
 Parsed and autoboxed Integer: 300
+Parsed and autoboxed Float: 75.25
+Parsed and autoboxed Character: C
+Parsed and autoboxed Boolean: true
+
+
+
 
